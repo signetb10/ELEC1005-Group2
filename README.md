@@ -16,3 +16,8 @@ List of the testcases.
 3) Portions, see if the amounts of the ingredients changes depending on if the user changes the portions required for the meal.
 4) Profile: do profile details appear when the profile button is pressed.
 5) Log out: does the program log the user out when log out button is pressed. 
+
+Formatted list of testcases. 
+[v and v elec 1005.docx](https://github.com/signetb10/ELEC1005-Group2/files/15359859/v.and.v.elec.1005.docx)
+
+Note: need to clarify steps with powerapps prototpe however the program can only be accessed from Tingus's laptop, must update document once details are clarified. 
